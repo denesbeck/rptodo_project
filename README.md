@@ -1,5 +1,7 @@
 # RP To-Do
 
+Tutorial: https://realpython.com/python-typer-cli/
+
 **RP To-Do** is a command-line interface application built with [Typer](https://typer.tiangolo.com/) to help you manage your to-do list.
 
 ## Installation
